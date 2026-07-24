@@ -1,0 +1,6 @@
+Timestamp,Attacker_IP,Command,AI_Response
+2026-07-22 20:18:31,127.0.0.1,ls,bash: ls: command not found
+2026-07-22 20:18:54,127.0.0.1,whoami,bash: whoami: command not found
+2026-07-22 20:21:05,127.0.0.1,cat /etc/passwd,bash: cat /etc/passwd: command not found
+2026-07-22 20:25:20,127.0.0.1,ls,bash: ls: command not found
+2026-07-22 20:25:23,127.0.0.1,whoami,bash: whoami: command not found
